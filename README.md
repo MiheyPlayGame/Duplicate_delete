@@ -1,4 +1,4 @@
-# Duplicate_delete
+# Remove_duplicates
 Task DA-1-10 for NSU "Project Introduction" course
 
 ## Task description
